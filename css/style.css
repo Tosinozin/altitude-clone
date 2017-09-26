@@ -1,0 +1,208 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    font-family: sans-serif !important;
+}
+
+.fa{
+    font-family: "FontAwesome" !important;
+}
+
+.firstLayer{
+    background-color: rgb(45, 30, 95);
+    color: #fff;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    /*background-color: red;*/
+    overflow: hidden;
+}
+
+nav{
+    padding: 25px 0 45px 0; 
+}
+
+
+nav h3{
+    margin: 0;
+}
+nav .notBold{
+    color: #E3E3E3;
+}
+nav .menu{
+    float: right;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.left{
+    width: 40%;
+    float: left;
+}
+.left h1{
+    margin-top: 0;
+}
+.left p{
+    color: #E3E3E3;
+}
+.leftTop{
+    background-color: #00C5CD;
+    padding: 70px 45px 0;
+    text-align: center;
+    height: 215px;
+}
+.leftTop button{
+    background-color: #00C5CD;
+    color: #fff;
+    border-radius: 25px;
+    width: 105px;
+    height: 45px;
+    border: none;
+    box-shadow: 0px 5px 35px 0px #999;
+    cursor: pointer;
+}
+
+.leftBottom{
+    background-color: #66CDAA;
+    padding: 70px 45px 0;
+    text-align: center;
+    height: 215px;
+}
+.leftBottom button{
+    background-color: #66CDAA;
+    color: #fff;
+    border-radius: 25px;
+    width: 105px;
+    height: 45px;
+    border: none;
+    box-shadow: 0px 5px 35px 0px #999;
+    cursor: pointer;
+}
+
+
+.right{
+    background-image: url("../pictures/laptop1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 60%;
+    height: 570px;
+    float: left;
+}
+
+
+
+.secondLayer{
+    background-color: rgb(68, 60, 114);
+}
+.container1{
+    background-color: #fff;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: center;
+}
+.container1 h1{
+    margin: 0;
+    padding-top: 85px;
+}
+.row{
+    width: 80%;
+    margin: 0 auto;
+    padding: 60px 0 0 0;
+}
+.row i{
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 30px;
+}
+
+.section1{
+    width: 29%;
+    float: left;
+    padding: 30px 2% 100px;
+}
+
+.section2{
+    width: 29%;
+    float: left;
+    padding: 30px 2% 100px;
+}
+
+.section3{
+    width: 29%;
+    float: left;
+    padding: 30px 2% 100px;
+}
+
+.section1 i{
+    color: #00C5CD; 
+}
+.section2 i{
+    color: #66CDAA; 
+}
+.section3 i{
+    color: #FFA500; 
+}
+
+.container2{
+    background-color: rgb(238, 186, 105);
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.container2 h2{
+    margin-top: 0;
+}
+.container2 p{
+    margin-bottom: 0;
+}
+
+.encloser{
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.inner{
+    width: 82%;
+    float: left;
+}
+.topSection{
+    background-image: url("../pictures/road.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+}
+.bottomSection{
+    text-align: center;
+    background-color: #fff;
+    padding: 80px 80px;
+}
+
+.container2 .arrow1{
+    color: #E3E3E3;
+    float: left;
+    position: relative;
+    top: 250px;
+    width: 9%;
+    cursor: pointer;
+}
+
+.container2 .arrow2{
+    color: #E3E3E3;
+    float: left;
+    cursor: pointer;
+    position: relative;
+    top: 250px;
+    width: 9%;
+}
+.arrow2 i{
+    float: right
+}
