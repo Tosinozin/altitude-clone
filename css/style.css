@@ -210,7 +210,86 @@ nav a{
     background: #fff;
     width: 80%;
     margin: auto;
+    text-align: center;
+    overflow: hidden;
 }
-.container3 h1{
-    margin-top: 0;
+
+.container3Top h1{
+    margin: 0;
+    padding-top: 60px;
+    padding-bottom: 15px;
+}
+.container3Top p{
+    margin: 0;
+    padding-bottom: 40px;
+}
+.container3 .section{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.divide1{
+    float: left;
+    width: 40%;
+    height: 270px;
+    /*padding: 20px 30px;*/
+    box-shadow: 0px 0px 15px 0px #999;
+}
+.divide1 h3{
+    margin: 0;
+    padding-top: 40px;
+}
+.divide1 p{
+    margin: 0;
+    padding: 15px 40px 20px;
+}
+.divide1 button{
+    background-color: #66CDAA;
+    color: #fff;
+    border-radius: 25px;
+    width: 95px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+.divide2{
+    float: left;
+    background-image: url("../pictures/hills1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 270px;
+    width: 60%;
+    box-shadow: 0px 0px 15px 0px #999;
+}
+.divide3{
+    float: left;
+    background-image: url("../pictures/backview2.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 270px;
+    width: 40%;
+    box-shadow: 0px 0px 15px 0px #999;
+}
+.divide4{
+    float: left;
+    width: 60%;
+    height: 270px;
+    box-shadow: 0px 0px 15px 0px #999;
+}
+.divide4 h3{
+    margin: 0;
+    padding-top: 40px;
+}
+.divide4 p{
+    margin: 0;
+    padding: 15px 60px 20px;
+}
+.divide4 button{
+    background-color: #66CDAA;
+    color: #fff;
+    border-radius: 25px;
+    width: 95px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
 }
