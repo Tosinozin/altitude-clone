@@ -11,7 +11,7 @@ html, body{
 }
 
 .firstLayer{
-    background-color: rgb(45, 30, 95);
+    background-color: rgb(78, 82, 102);
     color: #fff;
 }
 
@@ -30,7 +30,7 @@ nav h3{
     margin: 0;
 }
 nav .notBold{
-    color: #E3E3E3;
+    color: rgb(166, 168, 164);
 }
 nav .menu{
     float: right;
@@ -48,16 +48,16 @@ nav a{
     margin-top: 0;
 }
 .left p{
-    color: #E3E3E3;
+    color: rgb(210, 228, 220);
 }
 .leftTop{
-    background-color: #00C5CD;
+    background-color: rgb(76, 171, 177);
     padding: 70px 45px 0;
     text-align: center;
     height: 215px;
 }
 .leftTop button{
-    background-color: #00C5CD;
+    background-color: rgb(76, 171, 177);
     color: #fff;
     border-radius: 25px;
     width: 105px;
@@ -68,13 +68,13 @@ nav a{
 }
 
 .leftBottom{
-    background-color: #66CDAA;
+    background-color: rgb(105, 199, 173);
     padding: 70px 45px 0;
     text-align: center;
     height: 215px;
 }
 .leftBottom button{
-    background-color: #66CDAA;
+    background-color: rgb(105, 199, 173);
     color: #fff;
     border-radius: 25px;
     width: 105px;
@@ -97,7 +97,7 @@ nav a{
 
 
 .secondLayer{
-    background-color: rgb(68, 60, 114);
+    background-color: rgb(87, 91, 114);
 }
 .container1{
     background-color: #fff;
@@ -140,17 +140,17 @@ nav a{
 }
 
 .section1 i{
-    color: #00C5CD; 
+    color: rgb(76, 171, 177); 
 }
 .section2 i{
-    color: #66CDAA; 
+    color: rgb(76, 171, 177); 
 }
 .section3 i{
-    color: #FFA500; 
+    color: rgb(254, 213, 134); 
 }
 
 .container2{
-    background-color: rgb(238, 186, 105);
+    background-color: rgb(254, 213, 134);
     width: 80%;
     margin: 0 auto;
     padding-top: 60px;
@@ -186,7 +186,7 @@ nav a{
 }
 
 .container2 .arrow1{
-    color: #E3E3E3;
+    color: rgb(254, 226, 173);
     float: left;
     position: relative;
     top: 250px;
@@ -195,7 +195,7 @@ nav a{
 }
 
 .container2 .arrow2{
-    color: #E3E3E3;
+    color: rgb(254, 226, 173);
     float: left;
     cursor: pointer;
     position: relative;
@@ -244,7 +244,7 @@ nav a{
     padding: 15px 40px 20px;
 }
 .divide1 button{
-    background-color: #66CDAA;
+    background-color: rgb(87, 91, 114);
     color: #fff;
     border-radius: 25px;
     width: 95px;
@@ -285,11 +285,26 @@ nav a{
     padding: 15px 60px 20px;
 }
 .divide4 button{
-    background-color: #66CDAA;
+    background-color: rgb(87, 91, 114);
     color: #fff;
     border-radius: 25px;
     width: 95px;
     height: 40px;
     border: none;
     cursor: pointer;
+}
+
+.thirdLayer{
+    background-color: rgb(78, 82, 102);
+}
+.container4{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(76, 171, 177);
+    text-align: center;
+    color: #fff;
+}
+.container4 h2{
+    margin: 0;
+    padding-top: 50px;
 }
