@@ -296,6 +296,7 @@ nav a{
 
 .thirdLayer{
     background-color: rgb(78, 82, 102);
+    overflow: hidden;
 }
 .container4{
     width: 80%;
@@ -331,5 +332,36 @@ nav a{
     border: none;
     box-shadow: 5px 0px 25px 0px #999;
     cursor: pointer;
+}
+
+.footerMenu{
+    width: 80%;
+    margin: 50px auto 0;
+    color: #fff;
+    text-align: center;
+}
+
+.footerMenu ul{
+    list-style: none;
+    float: left;
+    width: 19.5%;
+    padding: 50px 2.5%;
+}
+
+.footerMenu ul + ul {
+    border-left: 1px solid rgb(166, 168, 164);
+}
+.footerMenu ul li:first-child{
+    padding-bottom: 20px;
+}
+.footerMenu ul li{
+    padding-bottom: 10px;
+}
+.footerMenu ul li a{
+    text-decoration: none;
+    color: rgb(166, 168, 164);
+}
+.footerMenu ul li a:hover{
+    color: rgb(76, 171, 177);
 }
 
