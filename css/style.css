@@ -303,8 +303,33 @@ nav a{
     background-color: rgb(76, 171, 177);
     text-align: center;
     color: #fff;
+    padding: 60px 0;
 }
 .container4 h2{
     margin: 0;
-    padding-top: 50px;
 }
+.container4 p{
+    margin: 0;
+    color: rgb(210, 228, 220);
+    padding: 20px 0  30px;
+}
+.container4 input[type = text]{
+    width: 50%;
+    padding: 10px 0 10px 10px;
+    height: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    border: none;
+}
+.container4 button{
+    background-color: rgb(76, 171, 177);
+    color: #fff;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 105px;
+    height: 45px;
+    border: none;
+    box-shadow: 5px 0px 25px 0px #999;
+    cursor: pointer;
+}
+
