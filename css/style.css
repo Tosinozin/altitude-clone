@@ -143,7 +143,7 @@ nav a{
     color: rgb(76, 171, 177); 
 }
 .section2 i{
-    color: rgb(76, 171, 177); 
+    color: rgb(105, 199, 173); 
 }
 .section3 i{
     color: rgb(254, 213, 134); 
@@ -336,9 +336,11 @@ nav a{
 
 .footerMenu{
     width: 80%;
-    margin: 50px auto 0;
+    margin: 0 auto;
+    padding-top: 50px;
     color: #fff;
     text-align: center;
+    overflow: hidden;
 }
 
 .footerMenu ul{
@@ -364,4 +366,17 @@ nav a{
 .footerMenu ul li a:hover{
     color: rgb(76, 171, 177);
 }
-
+.footer{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    color: rgb(166, 168, 164);
+    padding: 20px 0;
+}
+.footer i{
+    padding: 0px 10px 0 35px;
+    color: #fff;
+}
+.reserve{
+    padding: 10px 0 40px;
+}
