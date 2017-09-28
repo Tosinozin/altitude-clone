@@ -212,6 +212,7 @@ nav a{
     margin: auto;
     text-align: center;
     overflow: hidden;
+    padding-bottom: 70px;
 }
 
 .container3Top h1{
@@ -232,8 +233,7 @@ nav a{
     float: left;
     width: 40%;
     height: 270px;
-    /*padding: 20px 30px;*/
-    box-shadow: 0px 0px 15px 0px #999;
+    box-shadow: 0px 0px 10px 0px #999;
 }
 .divide1 h3{
     margin: 0;
@@ -259,7 +259,7 @@ nav a{
     background-position: center;
     height: 270px;
     width: 60%;
-    box-shadow: 0px 0px 15px 0px #999;
+    box-shadow: 0px 0px 10px 0px #999;
 }
 .divide3{
     float: left;
@@ -268,13 +268,13 @@ nav a{
     background-position: center;
     height: 270px;
     width: 40%;
-    box-shadow: 0px 0px 15px 0px #999;
+    box-shadow: 0px 0px 10px 0px #999;
 }
 .divide4{
     float: left;
     width: 60%;
     height: 270px;
-    box-shadow: 0px 0px 15px 0px #999;
+    box-shadow: 0px 0px 10px 0px #999;
 }
 .divide4 h3{
     margin: 0;
